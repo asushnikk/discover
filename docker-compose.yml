@@ -1,0 +1,5 @@
+services:
+  discover:
+    image: discover:0.0.1-SNAPSHOT
+    ports:
+    - 666:666
